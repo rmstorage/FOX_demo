@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test,Chrome 70.0.3538.110,,2018-11-28 19:39:41,2018-11-28 19:40:08,27.165s,FAILED
+,,,,,,
+Test Cases/Fox_demo_TC1,Chrome 70.0.3538.110,,2018-11-28 19:39:41,2018-11-28 19:40:07,26.165s,FAILED
+runFeatureFolder,Chrome 70.0.3538.110,,2018-11-28 19:39:41,2018-11-28 19:40:07,25.965s,FAILED
